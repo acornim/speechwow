@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5edeb3da89371d49bc29b15e16f235e",
+    "revision": "6e7f0e42881ebc994c8fc845b1fff7f4",
     "url": "/speechwow/index.html"
   },
   {
-    "revision": "ccd68716009632e3cb4b",
-    "url": "/speechwow/static/css/2.6011fe8e.chunk.css"
+    "revision": "bd0b491ff00481ded4d0",
+    "url": "/speechwow/static/css/2.03add15d.chunk.css"
   },
   {
     "revision": "ee74e1418418601b7156",
     "url": "/speechwow/static/css/main.00770f9f.chunk.css"
   },
   {
-    "revision": "ccd68716009632e3cb4b",
+    "revision": "bd0b491ff00481ded4d0",
     "url": "/speechwow/static/js/2.bb6d2e5b.chunk.js"
   },
   {

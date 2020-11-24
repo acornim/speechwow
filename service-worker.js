@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/speechwow/precache-manifest.728e4a04709e41ca5f8a752856692716.js"
+  "/speechwow/precache-manifest.2e26df8faa2f928f1cefc707152c6a12.js"
 );
 
 self.addEventListener('message', (event) => {
