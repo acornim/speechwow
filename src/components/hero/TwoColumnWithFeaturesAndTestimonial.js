@@ -39,13 +39,13 @@ const CustomerCompany = tw.p`mt-1 text-sm text-gray-500`
 
 
 export default ({
-  heading = "Speechwow Slogan ej Tmaus",
+  heading = "We Optimize your WOW",
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
   //imageSrc = "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
   imageSrc = "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2744&q=80",
   imageDecoratorBlob = true,
   primaryButtonUrl = "https://google.com",
-  primaryButtonText = "Get Started",
+  primaryButtonText = "JOIN US",
   buttonRounded = true,
   features = ["Available in anywhere", "Lorem ipsum dolor sit amet", "Lorem ipsum dolor sit amet"],
   testimonial = {

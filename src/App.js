@@ -105,7 +105,7 @@ export default () => {
         subheading={<Subheading>VALUES</Subheading>}
         heading={
           <>
-            We Always Abide by Our <HighlightedText>Principles.</HighlightedText>
+            Need <HighlightedText>Confidence</HighlightedText>?
           </>
         }
         imageSrc={prototypeIllustrationImageSrc}
@@ -114,13 +114,13 @@ export default () => {
           {
             Icon: MoneyIcon,
             title: "Affordable",
-            description: "We promise to offer you the best rate we can - at par with the industry standard.",
+            description: "We promise to offer you the best rate we can - Duis aute irure dolor in reprehenderit.",
             iconContainerCss: tw`bg-green-300 text-green-800`
           },
           {
             Icon: BriefcaseIcon,
             title: "Professionalism",
-            description: "We assure you that our templates are designed and created by professional designers.",
+            description: "We assure you that our services are designed and created by professional Duis aute.",
             iconContainerCss: tw`bg-red-300 text-red-800`
           }
         ]}
